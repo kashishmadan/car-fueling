@@ -1,4 +1,4 @@
-# car-Fuelling using Greedy Algorithm
+# Car Fuelling using Greedy Algorithm
 
 ## Abstract
 Greedy Algorithm is a search technique used in computing to find the optimal solution to a computational problem that minimizes a function. Greedy Algorithm is used to solve the Car Fuelling Problem where one must find the minimum number of cities to selected to refuel the gas tank and then reach the destination. Greedy Algorithm is a computer algorithm that search for good solutions to a problem from various possible solutions. The basic elements of Greedy Algorithm are chromosomes, fitness function, selection, crossover and mutation. The Car Fuelling Problem is well known in the field of combinatorial optimization. 
